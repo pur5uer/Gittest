@@ -16,4 +16,8 @@ gitbash:
   git add . # 将该目录下所有文件夹及文件提交到暂存区
   ls # 查看待上传文件夹的内容
   git pull --rebase origin master # 把最新版本的远程仓库源码更新到本地（往往是不可缺失的步骤）
+  git add 的几种参数的区别：
+  git add -A # 保存所有的修改
+  git add . # 保存新的添加和修改，但是不包括删除
+  git add -u # 保存修改和删除，但是不包括新建文件。
   

@@ -22,5 +22,5 @@
   git add . # 保存新的添加和修改，但是不包括删除<br/>
   git add -u # 保存修改和删除，但是不包括新建文件<br/>
   <br/>
-  git status # 文件，文件夹在工作区，暂存区的状态 
-  git remote -v # 查看关联远程库的本地库
+  git status # 文件，文件夹在工作区，暂存区的状态 <br/>
+  git remote -v # 查看关联远程库的本地库<br/>

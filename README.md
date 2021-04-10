@@ -24,3 +24,4 @@
   <br/>
   git status # 文件，文件夹在工作区，暂存区的状态 <br/>
   git remote -v # 查看关联远程库的本地库<br/>
+  git mv 源文件 目标文件 # 同linux命令 mv 可以改名<br/>
